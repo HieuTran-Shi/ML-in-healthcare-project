@@ -9,7 +9,7 @@ machine learning models.
 
 The goal was to obtain the most
 precise output for optimized proble
-# Experiment setup
+# Environment setup
 ```
 cd "directory\to\current\github\repo"
 python make_environment.py
